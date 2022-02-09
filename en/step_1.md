@@ -3,9 +3,9 @@ To set the pins for multiple LEDs, use the following code:
 --- code ---
 ---
 language: python
-filename: mood-check-in.py
+filename: 
 line_numbers: false
-line_number_start: 1
+line_numb_start: 1
 line_highlights: 
 ---
 led_1 = LED(13)
@@ -18,7 +18,7 @@ led_2 = LED(5)
 --- code ---
 ---
 language: python
-filename: mood-check-in.py
+filename: 
 line_numbers: false
 line_number_start: 1
 line_highlights: 
