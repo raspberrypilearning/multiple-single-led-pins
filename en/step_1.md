@@ -9,7 +9,7 @@ line_numb_start: 1
 line_highlights: 
 ---
 led_1 = LED(13)
-led_2 = LED(9)
+led_2 = LED(8)
 led_2 = LED(5)
 --- /code ---
 
@@ -24,6 +24,6 @@ line_number_start: 1
 line_highlights: 
 ---
 red_led = LED(13)
-green_led = LED(9)
+green_led = LED(8)
 pink_led = LED(5)
 --- /code ---
