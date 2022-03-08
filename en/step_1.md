@@ -1,4 +1,4 @@
-To set the pins for multiple LEDs, use the following code:
+Import the type of LED that you are using from the picozero library then set the pins for multiple LEDs, use the following code:
 
 --- code ---
 ---
@@ -8,6 +8,8 @@ line_numbers: false
 line_numb_start: 1
 line_highlights: 
 ---
+from picozero import LED
+
 led_1 = LED(13)
 led_2 = LED(8)
 led_2 = LED(5)
