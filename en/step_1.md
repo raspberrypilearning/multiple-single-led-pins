@@ -1,4 +1,4 @@
-Import the type of LED that you are using from the picozero library then set the pins for multiple LEDs, use the following code:
+Import LED from the picozero library then set the pins for multiple LEDs, use the following code:
 
 --- code ---
 ---
