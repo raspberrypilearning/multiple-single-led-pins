@@ -12,7 +12,7 @@ from picozero import LED
 
 led_1 = LED(13)
 led_2 = LED(8)
-led_2 = LED(5)
+led_3 = LED(5)
 --- /code ---
 
 **Tip**: You should give your LED variables a meaningful name. For example, if each LED is a different colour then you could use the following code:
