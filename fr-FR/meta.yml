@@ -1,0 +1,10 @@
+---
+title: Définir les broches pour plusieurs LED
+hero_image: images/banner.png
+description: Définis les broches pour plusieurs LED en MicroPython avec le Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-08"
+steps:
+  - title: Définir les broches pour plusieurs LED
