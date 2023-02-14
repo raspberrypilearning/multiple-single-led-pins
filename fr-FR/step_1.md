@@ -26,8 +26,8 @@ line_numbers: false
 line_number_start: 1
 line_highlights:
 ---
-red_led = LED(13) 
-green_led = LED(8) 
-pink_led = LED(5)
+rouge_led = LED(13) 
+vert_led = LED(8) 
+rose_led = LED(5)
 
 --- /code ---
