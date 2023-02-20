@@ -1,0 +1,10 @@
+---
+title: Stel de pinnen in voor meerdere RGB-LEDs
+hero_image: images/banner.png
+description: Stel de pinnen in voor meerdere LED's in MicroPython met de Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-08"
+steps:
+  - title: Stel de pinnen in voor meerdere RGB-LEDs
